@@ -1,6 +1,6 @@
 # Contijac
 
-Contijac is a continuos build tool for Java develoment. It is very small and far from a complete continuos integration and delivery system. Contijac just builds Java sources on every detection of changes in your files.
+Contijac is a continuous build tool for Java develoment. It is very small and far from a complete continuous integration and delivery system. Contijac just builds Java sources on every detection of changes in your files.
   
 
 ## Key points
