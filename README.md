@@ -12,13 +12,18 @@ Contijac is a continuous build tool for Java develoment. It is very small and fa
  * optionally runnable with a configuration file in json format
  * clean source code:
      * use it to learn how to make programmatic uses of the internal Java compiler
-     * use it as part of more complex self-made building solutions         
+     * use it as part of a more complex self-made building solutions         
  * Apache 2.0 license
  
 ## Notes & limits
  
- * Contijac do not delete files from the compilation destination folder, so for example if you delete a Java source the relative compiled class/es won't be removed, and the same applies to resource files. This also means that renaming Java sources and resources does not remove the old-named corrispective files, just adds the new ones. Pull requests are welcome, even those made to remove this limit.      
- * this is a recent tool, I use it in production but proceed with caution to test if it's really suitable for your use case.
+ * Contijac doesn't delete files from the compilation destination folder, so for 
+ example if you delete a Java source the relative compiled class/es won't be removed, 
+ and the same applies to resource files. This also means that renaming Java sources and 
+ resources does not remove the old-named corrispective files, just adds the new ones. Pull 
+ requests are welcome, even those made to remove this limit.      
+ * this is a recent tool, I use it in production but proceed with caution to test if it's 
+ really suitable for your use case.
  
 ## Usage 
 
