@@ -19,6 +19,7 @@ package me.as.contijac.compiler;
 
 public class Constants
 {
+
  public static final String programName="Contijac";
  public static final int version[]={0, 0, 1};
  public static final String date="2019-Nov-30";
