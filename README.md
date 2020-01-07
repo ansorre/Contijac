@@ -43,6 +43,12 @@ of the only three dependecies:
 * [as-libs-buildtools](https://github.com/ansorre/as-libs-buildtools)
    
  
+## Feel like sponsoring this project?  
+**Compliments, it's a very good idea. 🤗**    
+You can do so right here: [Sponsor @ansorre on GitHub sponsors](https://github.com/sponsors/ansorre)  
+Why it's a good idea? Read [here](https://ansorre.github.io/sponsor/).    
+
+ 
 ## Quick links
 
  * [Github project](https://github.com/ansorre/Contijac)
