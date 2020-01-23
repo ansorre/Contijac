@@ -13,7 +13,7 @@ Contijac is a continuous build tool for Java develoment. It is very small and fa
  * clean source code:
      * use it to learn how to make programmatic uses of the internal Java compiler
      * use it as part of a more complex self-made building solution         
- * Apache 2.0 license
+ * Apache License 2.0
  
 ## Notes & limits
  
